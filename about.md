@@ -1,8 +1,15 @@
 ---
-layout: Default
+layout: page
 title: About
-permalink: /about/
-theme: jekyll-theme-leap-day
 ---
-# ***About me***
-## Hello world! I am Dharshan, a ninth grader from Tamil Nadu, India. This is just a sample to see if the about page will work as expected, I really hope this works!!!
+
+This is an about page about this awesome site.
+Hope you love it!
+
+Reasons:
+- its great.
+- its a test.
+
+## Other thoughts
+
+This is great.
