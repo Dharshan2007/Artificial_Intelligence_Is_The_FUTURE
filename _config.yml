@@ -8,3 +8,5 @@ github_username:  Dharshan2007
 # Build settings
 markdown: kramdown
 remote_theme: Neumorphism
+
+theme: jekyll-theme-leap-day
