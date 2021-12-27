@@ -2,11 +2,9 @@
 title: The Technological Era
 author: Dharshan VY
 email: vadivel.t@gmail.com
-description: A wonderful site where I share my experiences with AI
+description: An informative site by an enthusiastic teen
 github_username:  Dharshan2007
 
 # Build settings
 markdown: kramdown
-remote_theme: Neumorphism
-
 theme: jekyll-theme-leap-day
