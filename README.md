@@ -5,6 +5,7 @@
 >"Artificial intelligence is a tool, not a threat" -Rodney Brooks
 
 >"AI is the science of making machines do things that would require intelligence if done by men" -Marvin Minsky
+
 ---
 
 ## **The aim of this website**
