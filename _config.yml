@@ -1,1 +1,10 @@
+# basic options
+title: AI, the future is here!
+author: Dharshan VY
+email: your-email@domain.com
+description: A wonderful site where I share my experiances with AI
+github_username:  Dharshan2007
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-slate
