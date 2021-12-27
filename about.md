@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Default
 title: About
 permalink: /about/
 theme: jekyll-theme-leap-day
