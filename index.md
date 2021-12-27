@@ -1,5 +1,3 @@
-## Artificial Intelligence
-
 >"Predicting the future isn't magic, it's artificial intelligence" -Dave Waters
 
 >"Artificial intelligence is a tool, not a threat" -Rodney Brooks
