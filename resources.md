@@ -2,8 +2,8 @@
 layout: page
 title: Resources
 ---
-
 > Informative resources posted here for studying!
+
 ---
 ## **Get your resources here!**
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax#ordered-lists)
