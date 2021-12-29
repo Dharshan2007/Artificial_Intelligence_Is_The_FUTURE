@@ -5,6 +5,8 @@ title: Projects
 
 > This page is where you can learn all the magic that happens in developing AI and so on,...
 
+---
+
 # **How to host a website on github?**
 
 STEP 1: Open [github.com](https://github.com/) and sign in or sign up with valid credentials. You'll most often see this landing page as shown in the image below. Your options to sign in or sign up will be available on the top right if your screen.
