@@ -1,14 +1,15 @@
 # basic options
 title: The Modern Era
 author: Dharshan VY
-email: vadivel.t@gmail.com
-description: An informative site by an enthusiastic teen
+email: Dharshan150907@gmail.com
+description: An informative blog by an enthusiastic teen
 github_username:  Dharshan2007
 lang: "en"
 
 # Build settings
 markdown: kramdown
 theme: minima
+
 # Menu
 
 navigations:
