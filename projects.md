@@ -96,7 +96,7 @@ To build your user site, you’ll need to create a repository named `<username>.
 ---
 # **Build a basic calculator using python**
 
-In this article, you will learn how to make a simple calculator that can do all of the four basic arithmatic operations (addition, subtraction, multiplication, division) based on the users need and input.
+In this article, you will learn how to make a simple calculator that can do all of the four basic arithmetic operations (addition, subtraction, multiplication, division) based on the users need and input.
 
 ## Input:
 ```python
@@ -170,4 +170,46 @@ Enter second number: 3
 Let's do next calculation? (yes/no): no
 ```
 
-In this simple python program, we ask the user to choose an arithmatic operation which are one of the option 1, 2, 3, or 4. These four options are valid and if any other input is given by the user, `Invalid Input` will be displayed and the loop runs again until a valid input is given by the user.
+In this simple python program, we ask the user to choose an arithmetic operation which are one of the option 1, 2, 3, or 4. These four options are valid and if any other input is given by the user, `Invalid Input` will be displayed and the loop runs again until a valid input is given by the user.
+
+---
+# **Program to find the largest among 3 numbers in Python**
+
+In this article, we learn how to build a basic program to find the largest number among three numbers using Python. We will be using `if, elif, and else` statements in this program.
+
+## Input:
+```python
+heading = 'Find the largest number among 3 others'
+heading = heading.upper()
+
+print('*' * len(heading))
+print(heading)
+print('*' * len(heading))
+
+# The following lines are to take three numbers from user
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+num3 = float(input("Enter third number: "))
+
+if (num1 >= num2) and (num1 >= num3):
+   largest = num1
+elif (num2 >= num1) and (num2 >= num3):
+   largest = num2
+else:
+   largest = num3
+
+print("The largest number is", largest)
+```
+
+## Output:
+```python
+**************************************
+FIND THE LARGEST NUMBER AMONG 3 OTHERS
+**************************************
+Enter first number: 69
+Enter second number: 54
+Enter third number: 32
+The largest number is 69.0
+```
+
+What we do in this simple program is that we ask the user to enter 3 numbers to find the largest number out of the given input from the user. To test this program, rerun the same program but enter different numbers apart from the ones used in this example!
