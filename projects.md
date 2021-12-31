@@ -213,3 +213,45 @@ The largest number is 69.0
 ```
 
 What we do in this simple program is that we ask the user to enter 3 numbers to find the largest number out of the given input from the user. To test this program, rerun the same program but enter different numbers apart from the ones used in this example!
+
+---
+# **Program to display the multiplication table for a given number in Python**
+
+In this article, we learn how to build a program which can display the multiplication table for number given by the user using `python loops`.
+
+## Input:
+```Python
+heading = 'multiplication tables'
+heading = heading.upper()
+
+print('*' * len(heading))
+print(heading)
+print('*' * len(heading))
+
+# To take input from the user
+num = int(input("Number to display the multiplication table: "))
+
+# Iterate 10 times from i = 1 to 10
+for i in range(1, 11):
+   print(num, 'x', i, '=', num*i)
+```
+
+## Output:
+```Python
+*********************
+MULTIPLICATION TABLES
+*********************
+Number to display the multiplication table: 9
+9 x 1 = 9
+9 x 2 = 18
+9 x 3 = 27
+9 x 4 = 36
+9 x 5 = 45
+9 x 6 = 54
+9 x 7 = 63
+9 x 8 = 72
+9 x 9 = 81
+9 x 10 = 90
+```
+
+What we do in this program is that we ask the user to enter a number to find the multiplication table of that particular number. we have used the `for` loop along with the `range()` function to iterate 10 times. The arguments inside the `range()` function are (1, 11). Meaning, greater than or equal to 1 and less than 11. In this case, we have got the multiplication table for the number 9. Rerun the program with a different number to test the program out!
