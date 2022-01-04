@@ -35,19 +35,13 @@ Example of modules that should be tested include:
 
 Test designs cover how a system is to be tested. The below table shows the test designs that need to be ensured and checked properly.
 
-**TEST DESIGNS**
-**Type of test data**| **Description**| 
----------|----------|
-**Data Structure** | Test should check if the formats are correct and if the tables hold the type of data properly without any errors. | 
- **File Structures** | Test should check if the files are saved in the correct format and can be retrieved properly when needed. | 
- **Input Formats** | Test shows us how to test all the data can be entered into the system correctly.  |
-  **Output Formats** | Test shows us how to test that screen output results are in correct format and also if the outputs are clear. |
- **Validation Rules** | The test checks if each form control allows users to enter the data correctly. | 
+ <img src="2022-01-04-06-35-51.png" alt="drawing" width="1000" height="250"/>
  
  ---
  ## **Test Strategies**
 
  ![](2022-01-04-05-24-34.png)
+ 
 
  ---
  ## **Testing with normal, extreme, abnormal, and live data**
