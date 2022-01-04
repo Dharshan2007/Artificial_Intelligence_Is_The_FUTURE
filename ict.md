@@ -31,6 +31,7 @@ Example of modules that should be tested include:
 - **Validation Rules** 
 - **Input and Output Screens**
 
+---
 ## **Test Designs**
 
 Test designs cover how a system is to be tested. The below table shows the test designs that need to be ensured and checked properly.
