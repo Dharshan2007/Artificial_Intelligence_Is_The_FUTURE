@@ -39,13 +39,13 @@ Test designs cover how a system is to be tested. The below table shows the test 
  <img src="2022-01-04-06-35-51.png" alt="drawing" width="1000" height="250"/>
  
  ---
- ## **Test Strategies**
+ ##  **Test Strategies**
 
  ![](2022-01-04-05-24-34.png)
  
 
  ---
- ## **Testing with normal, extreme, abnormal, and live data**
+ ##  **Testing with normal, extreme, abnormal, and live data**
 
  Scenario:
     
